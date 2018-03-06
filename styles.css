@@ -1,16 +1,18 @@
 h1 {
 font-size: 50px;
-  color: lightblue;
+  color: rgb(117, 163, 163);
     margin: auto;
-    width: 50%;
-    border: 3px solid rgb(60, 179, 113);
+    width: 34%;
+    border: 3px solid 	rgb(140, 217, 179);
     padding: 10px;
 }
 body {
-  background-color: white;
+    background-image: url("img_tree.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
 }
-p {color: lightgray;
+p {color: 	rgb(106, 155, 200);
   font-size: 30px;
   font-family: 
-  
-}
+
